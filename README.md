@@ -1,1 +1,2 @@
-The Read Me
+## Practice makes pythonic. 
+Home of my practice notebooks. 
